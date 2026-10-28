@@ -30,7 +30,7 @@ XP grinding, I only level up.
 
 ### 💬 Ask me about
 - **Full-stack development**
-- **DevOps**
+- **AI Engineering**
 - **Embedded programming**
 - **Systems programming with C/C++**
 
